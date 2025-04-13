@@ -2,7 +2,7 @@
   "name": "mock-repo-with-one-dependency",
   "version": "1.0.0",
   "dependencies": {
-    "repo-with-also-one-dependency": "^1.0.0",
-    "design-system-repo": "1.0.0"
+    "mock-repo-with-one-dependency": "^1.0.0",
+    "mock-design-system-repo": "1.0.0"
   }
 }
