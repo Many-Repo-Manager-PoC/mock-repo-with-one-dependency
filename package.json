@@ -2,6 +2,6 @@
   "name": "mock-repo-with-one-dependency",
   "version": "1.0.0",
   "dependencies": {
-    "mock-design-system-repo": "1.0.0"
+    "@many-repo-manager-poc/mock-design-system-repo": "1.0.0"
   }
 }
